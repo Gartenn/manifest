@@ -10,11 +10,11 @@
   <project path="hardware/xiaomi" name="hardware_xiaomi" remote="peridot" />
 
   <project path="device/xiaomi/peridot" name="device_xiaomi_peridot" revision="A16" remote="peridot" />
-  <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" remote="peridot" />
+  <project path="vendor/xiaomi/peridot" name="vendor_xiaomi_peridot" revision="lineage-23.0" remote="peridot" />
 
-  <project path="kernel/xiaomi/sm8635" name="kernel_xiaomi_peridot" remote="peridot" />
-  <project path="kernel/xiaomi/sm8635-module" name="kernel_xiaomi_peridot-module" remote="peridot" />
-  <project path="kernel/xiaomi/sm8635-devicetree" name="kernel_xiaomi_peridot-devicetree" remote="peridot" />
+  <project path="kernel/xiaomi/peridot" name="kernel_xiaomi_peridot" remote="peridot" />
+  <project path="kernel/xiaomi/peridot-module" name="kernel_xiaomi_peridot-module" remote="peridot" />
+  <project path="kernel/xiaomi/peridot-devicetree" name="kernel_xiaomi_peridot-devicetree" remote="peridot" />
 
   <project path="device/xiaomi/peridot-miuicamera" name="device_xiaomi_peridot-miuicamera" revision="14-leica" remote="peridot" />
   <project path="vendor/xiaomi/peridot-miuicamera" name="vendor_xiaomi_peridot-miuicamera" revision="14-leica" remote="Soverzion-HQ" />  
