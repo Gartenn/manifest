@@ -2,7 +2,7 @@
 <manifest>
   <remote name="peridot"
            fetch="https://github.com/Gartenn"
-           revision="A16" />
+           revision="lineage-23.0" />
 
   <remote name="Soverzion-HQ"
            fetch="https://gitea.com/Soverzion-HQ" />
